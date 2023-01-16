@@ -4,3 +4,9 @@
 
 layout: home
 ---
+wrok.ae is a boutique technology and product engineering cosulting firm. We specialise in advising startups and enterprises in the areas of
+- leadership coaching
+- organisation and process design
+- maximising velocity and reliability and
+- hiring
+
