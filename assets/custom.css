@@ -1,0 +1,12 @@
+body {
+}
+
+.site-title {
+    font-family: Georgia;
+    font-size: 3.2em;
+    margin-top: 10px;
+}
+
+.wrapper {
+    max-width: calc(1200px - (30px * 2));
+}
