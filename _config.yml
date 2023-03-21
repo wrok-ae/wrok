@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _svs_
 author:
   name: Wrok FZE
-  email: svs@wrok.ae
+  email: contact@wrok.ae
 
 # Build settings
 theme: minima
